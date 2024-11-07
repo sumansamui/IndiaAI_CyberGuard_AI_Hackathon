@@ -1,6 +1,6 @@
 # IndiaAI CyberGuard AI Hackathon
 
-# Team members:  Dr. Suman Samui
+# Team members: 
 
 - Suman Samui (Dept of ECE, NIT Durgapur)
 
