@@ -10,10 +10,10 @@
 
 - Sankalpa Das (Dept of ECE, NIT Durgapur)
 
-Problem Statement : Development of an NLP Model for Text Analytics and Classification
+## Problem Statement : Development of an NLP Model for Text Analytics and Classification
 
-Objective:
-o To develop an NLP model that categorizes complaint based on victim, type
+## Objective:
+To develop an NLP model that categorizes complaint based on victim, type
 of fraud and other relevant parameters used for text classification and
 preparing the final model.
 
@@ -26,7 +26,7 @@ preparing the final model.
 
 - **Accuracy Measurement**: Evaluate the model based on metrics such as accuracy, precision, recall, and F1-score.
 
-## Want to install this project on your own machine?
+## How to run this project on your own machine?
 
 
 Next, clone this project by opening a terminal and typing the following commands (do not type the first `$` signs on each line, they just indicate that these are terminal commands):
@@ -42,7 +42,9 @@ Next, clone this project by opening a terminal and typing the following commands
 
 ## References:
 
-https://indiaai.gov.in/article/ai-for-citizen-safety-join-the-indiaai-cyberguard-ai-hackathon
+1. https://indiaai.gov.in/article/ai-for-citizen-safety-join-the-indiaai-cyberguard-ai-hackathon
+
+2. Sanh, V., 2019. DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter. arXiv preprint arXiv:1910.01108.
 
 
 ### For queries and further information:
